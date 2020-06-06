@@ -1,2 +1,2 @@
-# Coursera--tera
+# Coursera--text
 coursera text repository
